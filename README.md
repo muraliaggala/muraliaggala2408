@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Murali. Welcome to my Git profile - @muraliaggala2408.
+- 👋 Hi, I’m Murali. Welcome to my Git profile - @muraliaggala.
 - 👀 I’m interested in Java, SQL, Web Technologies like HTML, CSS.
 - 🌱 I’m currently learning Java Full Stack Development and on going with Advance topics like JDBC, Spring, Hibernate.
 - 💞️ I’m looking to collaborate for projects, internships & full time employeemnet.
